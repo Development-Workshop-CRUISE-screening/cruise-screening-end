@@ -3,7 +3,7 @@ logs
 build
 test
 
-docker-compose.yaml
+docker-compose.yml
 
 external.Dockerfile
 internal.Dockerfile
